@@ -1,0 +1,3 @@
+URLS:
+	LINKEDIN:https://www.linkedin.com/in/nurbek-doniyorov-829bab278/
+	hh.uz:https://tashkent.hh.uz/applicant/settings?from=header_new&hhtmFromLabel=header_new&hhtmFrom=resume_list
